@@ -2,4 +2,5 @@
 It is a RPG trivia game, to raise cybersecurity awareness. 
 
 ### Game flow
-![GitHub Logo](/GameDescription/ReErase.mp4)
+Click the following picture to watch youtube video.
+[![GitHub Logo](/GameDescription/image.png)](https://youtu.be/BpgX19oOpwo)
